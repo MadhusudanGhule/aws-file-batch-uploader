@@ -67,10 +67,10 @@ Visit http://localhost:5173 to access the uploader.
 
 This is the **AWS File Batch Uploader** tool. Below is a screenshot of the app in action:
 
-![App Screenshot](https://github.com/madhusudanghule/aws-file-batch-uploader/main/public/images/screenshot.png?raw=true)
+![App Screenshot](https://github.com/madhusudanghule/aws-file-batch-uploader/blob/main/public/images/screenshot.png?raw=true)
 
 
-
+![App Screenshot](https://github.com/MadhusudanGhule/aws-file-batch-uploader/blob/main/public/images/screenshot)
 
 
 
