@@ -70,9 +70,6 @@ This is the **AWS File Batch Uploader** tool. Below is a screenshot of the app i
 ![App Screenshot](https://github.com/madhusudanghule/aws-file-batch-uploader/blob/main/public/images/screenshot.png?raw=true)
 
 
-![App Screenshot](https://github.com/MadhusudanGhule/aws-file-batch-uploader/blob/main/public/images/screenshot)
-
-
 
 
 
